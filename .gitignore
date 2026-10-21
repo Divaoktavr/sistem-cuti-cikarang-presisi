@@ -1,0 +1,6 @@
+﻿.env
+.env.*
+!.env.example
+/uploads/
+/bukti_cuti/
+database.sql
